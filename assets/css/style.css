@@ -277,6 +277,20 @@ span {
     width: 50%;
 }
 
+.p-font {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+}
+
+.width {
+    width: 36px;
+}
+
 .col-4 {
     width: 33.33%;
 }
@@ -365,6 +379,32 @@ span {
 .padding-12 {
     padding-bottom: 12px;
 }
+
+.bg-color-p {
+    background-color: #18205C;
+}
+
+.p-font {
+    color: white;
+}
+
+.f-btn {
+    width: 135px;
+    height: 93px;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+}
+
+.pt-25 {
+    padding-top: 26px;
+}
+
 
 @media screen and (max-width: 992px) {
     .col-lg-4 {
